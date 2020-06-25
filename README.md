@@ -1,5 +1,5 @@
 # xampp-ecom-store
-- XAMPP stack e-commerce store
+- XAMPP stack e-commerce store https://xampp-ecom-store.herokuapp.com
 - created in 2016
 
 ## Interface structure
